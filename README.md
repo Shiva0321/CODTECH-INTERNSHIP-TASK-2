@@ -6,11 +6,11 @@ This is a simple calculator application built using Python's Tkinter library. It
 
 Basic ari![calculator](https://github.com/user-attachments/assets/42ba10d8-526a-4f77-bf24-9ba32cdc88a3)
 
-Features
-
-thmetic operations: addition, subtraction, multiplication, and division.
+Features:
+Basic arithmetic operations: addition, subtraction, multiplication, and division.
 Clear button to reset the input.
 Error handling for invalid arithmetic operations.
-Requirements
+
+Requirements:
 Python 3.x
 Tkinter library (usually included with Python)
